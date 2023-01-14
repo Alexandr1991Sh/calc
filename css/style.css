@@ -1,0 +1,10 @@
+.container {
+    width: 350px;
+    height: 350px;
+    padding-top: 100px;
+    background-color: aqua;
+}
+
+.btn {
+    border-radius: 30px;
+}
